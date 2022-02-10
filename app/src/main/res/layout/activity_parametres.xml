@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="left"
+    android:paddingVertical="20dp"
+    android:paddingHorizontal="10dp"
+    android:background="#f8f8f8"
+    tools:context=".ParametresActivity">
+
+    <Button
+        android:backgroundTint="@color/white"
+        android:textColor="@color/black"
+        android:gravity="left|center"
+        android:id="@+id/btnToNumeros"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Liste des numéros"/>
+
+    <Button
+        android:backgroundTint="@color/white"
+        android:textColor="@color/black"
+        android:gravity="left|center"
+        android:id="@+id/btnToProfil"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Modifier le profil"/>
+
+</LinearLayout>

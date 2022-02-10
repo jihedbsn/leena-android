@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "924664405813",
+    "project_id": "brakage-4eeda",
+    "storage_bucket": "brakage-4eeda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924664405813:android:deb17de971e492edf7367c",
+        "android_client_info": {
+          "package_name": "com.lina.braquage2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924664405813-q1kbkqrqonfuk35dt34h79i6odonctvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lina.braquage2",
+            "certificate_hash": "3c24e2b4b315446bfe0ee0ff8116ad83b4c0feef"
+          }
+        },
+        {
+          "client_id": "924664405813-u51crp4hl4m2njeorf1evs0lpkr89l3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe2hkWCu4Fjm3jmhHFqJFNfUYYF-6oNkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924664405813-u51crp4hl4m2njeorf1evs0lpkr89l3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
